@@ -1,17 +1,16 @@
 
 ## Hello! Nice to have you on my profile. <img src="https://github.com/Alquipo/Alquipo/blob/main/img/Hi.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Venha+acompanhar+minha+evolução!;Fullstack+a+todo+vapor💻)](https://git.io/typing-svg)
----
 
-Estudante de Ciência da Computação, estou no meu 8º e último semestre.
+Estudante de Sistemas da informação, estou no meu 6º semestre.
 
 - 📚 Trabalhando com ReactNative, ReactJS e NodeJs. 
+- 📚 Experiencia com linguagem C
 
 
 <div align="center">
   <a href="https://github.com/GustavoGamma">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gab-lima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoGamma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGamma&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
